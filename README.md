@@ -9,4 +9,6 @@ Hospedado no GitHub Pages: https://mikereiss.github.io/alurabook/
 <br>
 <br>
 Alura Book Mobile:
+<br>
+<br>
 ![Print Alura Book mobile](https://github.com/mikeReiss/alurabook/assets/100447560/559213dc-7b70-47e9-aa53-81ce847fe593)
