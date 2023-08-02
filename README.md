@@ -1,6 +1,7 @@
 # AluraBook
 Projeto feito durante o curso de responsividade da Alura.
 <br>
+<br>
 Hospedado no GitHub Pages: https://mikereiss.github.io/alurabook/
 <br>
 <br>
